@@ -1,6 +1,6 @@
 
 //arithmetic operator
-let x = 20, y = 5;
+let x = 10, y = 5;
 console.log(x + y);   //addition  
 console.log(x - y);   //subtraction
 console.log(x * y);   //multiplication
